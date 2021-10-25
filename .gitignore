@@ -1,0 +1,12 @@
+#Ignore file
+*.exe
+*.xml
+*.txt
+*.mp4
+*.pdf
+*.csv
+*.pptx
+*.zip
+*.rar
+*.xlsx
+.ipynb_checkpoints/
